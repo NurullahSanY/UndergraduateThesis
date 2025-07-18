@@ -36,11 +36,11 @@ A comprehensive dataset containing millions of user reviews, ratings, and metada
 ### 🛠️ Technologies Used
 🧠 Transformers (BERT)
 
-🐍 Python
+* Python
 
-🔡 NLTK / spaCy for text preprocessing
+* NLTK / spaCy for text preprocessing
+  
+* Pandas, NumPy for data handling
 
-📊 Pandas, NumPy for data handling
-
-🔧 Scikit-learn / PyTorch / TensorFlow for modeling and evaluation
+* Scikit-learn / PyTorch / TensorFlow for modeling and evaluation
 
