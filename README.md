@@ -22,7 +22,7 @@ It focuses on overcoming the limitations of traditional rating-based systems by:
 📈 Recommendation Engine: Suggesting relevant books based on user preferences derived from textual content
 
 📂 Dataset
-Source: Amazon Books Reviews – Kaggle
+Source: Amazon Books Reviews – [Kaggle](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
 
 A comprehensive dataset containing millions of user reviews, ratings, and metadata for books on Amazon.
 
@@ -33,8 +33,8 @@ Experiment with different Transformer variants for better performance
 
 Build a scalable model that can generalize across diverse review patterns
 
-🛠️ Technologies Used
-🧠 Transformers (BERT, etc.)
+### 🛠️ Technologies Used
+🧠 Transformers (BERT)
 
 🐍 Python
 
@@ -44,9 +44,3 @@ Build a scalable model that can generalize across diverse review patterns
 
 🔧 Scikit-learn / PyTorch / TensorFlow for modeling and evaluation
 
-🚀 Future Improvements
-Integrate user behavioral data (e.g., browsing or purchase history)
-
-Build a web interface for real-time recommendations
-
-Apply multi-modal learning with images or metadata
