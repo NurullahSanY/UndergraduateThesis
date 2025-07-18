@@ -1,4 +1,4 @@
-#🔷 Transformer-Based Book Recommendation System #\\
+# Transformer-Based Book Recommendation System 
 📚 A powerful recommendation engine using Transformer-based models (like BERT) to generate highly relevant book suggestions by understanding user-written reviews.
 
 ##📝 Project Description
