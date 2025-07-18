@@ -21,12 +21,12 @@ It focuses on overcoming the limitations of traditional rating-based systems by:
 
 📈 Recommendation Engine: Suggesting relevant books based on user preferences derived from textual content
 
-📂 Dataset
+### 📂 Dataset
 Source: Amazon Books Reviews – [Kaggle](https://www.kaggle.com/datasets/mohamedbakhet/amazon-books-reviews)
 
 A comprehensive dataset containing millions of user reviews, ratings, and metadata for books on Amazon.
 
-### 📌 Goals
+### 📌 Goals <br>
 * Improve traditional recommendation techniques by integrating textual analysis
 
 * Experiment with different Transformer variants for better performance
