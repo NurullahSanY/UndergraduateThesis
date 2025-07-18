@@ -34,7 +34,7 @@ A comprehensive dataset containing millions of user reviews, ratings, and metada
 * Build a scalable model that can generalize across diverse review patterns
 
 ### 🛠️ Technologies Used
-🧠 Transformers (BERT)
+* Transformers (BERT)
 
 * Python
 
