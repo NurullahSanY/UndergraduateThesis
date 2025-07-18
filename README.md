@@ -1,5 +1,5 @@
 # Transformer-Based Book Recommendation System 
-📚 A powerful recommendation engine using Transformer-based models (like BERT) to generate highly relevant book suggestions by understanding user-written reviews.
+📚 A powerful recommendation engine using Transformer-based models (BERT) to generate highly relevant book suggestions by understanding user-written reviews.
 
 ## 📝 Project Description
 This project presents a book recommendation system that leverages state-of-the-art transformer architectures to analyze and extract meaning from user-generated textual reviews.
@@ -15,7 +15,7 @@ It focuses on overcoming the limitations of traditional rating-based systems by:
 ### ⚙️ Key Components 
 🔄 Data Preprocessing: Cleaning, tokenizing, and preparing the dataset for effective training
 
-❤️ Sentiment-Aware Embedding Generation: Utilizing transformer-based models to capture contextual sentiment and semantics
+📊Sentiment-Aware Embedding Generation: Utilizing transformer-based models to capture contextual sentiment and semantics
 
 🎯 Model Fine-Tuning: Adapting pre-trained transformer models (like BERT) for the domain of book reviews
 
@@ -26,12 +26,12 @@ Source: Amazon Books Reviews – [Kaggle](https://www.kaggle.com/datasets/mohame
 
 A comprehensive dataset containing millions of user reviews, ratings, and metadata for books on Amazon.
 
-📌 Goals
-Improve traditional recommendation techniques by integrating textual analysis
+### 📌 Goals
+* Improve traditional recommendation techniques by integrating textual analysis
 
-Experiment with different Transformer variants for better performance
+* Experiment with different Transformer variants for better performance
 
-Build a scalable model that can generalize across diverse review patterns
+* Build a scalable model that can generalize across diverse review patterns
 
 ### 🛠️ Technologies Used
 🧠 Transformers (BERT)
